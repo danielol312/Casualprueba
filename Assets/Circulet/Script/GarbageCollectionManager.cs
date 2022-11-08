@@ -14,6 +14,7 @@ public static class GarbageCollectionManager
     public static void CollectGarbage()
     {
         //holaaaaa
+        //dooooos
 
         #if !UNITY_EDITOR
         GarbageCollector.GCMode = GarbageCollector.Mode.Enabled;
